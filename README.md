@@ -1,5 +1,5 @@
 # WCC Cypress Test Typescript Michael Adeyemo
- 1. Clone repository or download 'Download Zip' and extract folder
+ 1. Clone repository or 'Download Zip' and extract folder
  2. Open folder in your IDE(e.g Visual Studio code)
  3. Open terminal and run:
     - npx cypress open
